@@ -1,7 +1,7 @@
 <h1 align='center'> Hello! :wave:</h1>
-<p align='center'>
+<h1 align='center'>
 I'm Nicolas.-
-</p>
+</h1>
 
 
 
