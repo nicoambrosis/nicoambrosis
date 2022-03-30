@@ -20,9 +20,12 @@ My name is Nicolas... this is a brief statment of my career...
 
 For the last couple of months I have been trying to redirect my career towards the Data Science industry; so I'm looking for positions in the industry in Argentina or abroad.
 
-Soft Skills
----
+If you want to know more about my professional careers, please go to [Linkedin](www.linkedin.com/in/nicolas-ambrosis) or mi Curriculm Vitae
 
-I'm a passionate amateur athlete.
-I used to love playing football (soccer) since I was 4 years old. I was part part of several amateurs teams and compete in football championships every year during my childhood and adolescence.\
-In 2017 I satarted pracicing trail running and fell in love with this sport immediatly. I run plenty of races throw amazing landscape of argentine Patagonia.  
+Soft Skills.-
+---
+I'm a passionate photographer and amateur athlete.
+
+I have a modest Canon PC1560 7.4v whit a amazing 35X optical zoom. It's not woooow but It allows me to take nice landscapes and B&W pictures. 
+I used to love playing football (soccer) since I was 4 years old. I was part part of several amateurs teams and compete in football championships every year during my childhood and adolescence.
+In 2017 I started practicing trail running and fell in love with this sport immediately. Since then, I have ran plenty of races throw amazing landscape of argentine Patagonia.  
