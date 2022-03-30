@@ -14,7 +14,7 @@ My name is Nicolas... this is a brief statment of my career...
 * I have a PhD in Molecular Biology (2018).
 * I have experience working in the United States:\
      :point_right: 2016 Geisel School of Medicine at Dartmouth\
-     :point_right: 2020 Louisiana State University
+     :point_right: 2021 Louisiana State University
   
 :computer: In 2019 I started studying Python programming to apply Data Science tools to my postdoc project. Immediatly I fell in love with programming, Python and Data Science. Now a days I am taking an anual course of :bar_chart: :chart_with_upwards_trend: [DATA SCIENCE, MACHINE LEARNING AND ITS APPLICATIONS](https://diplodatos.famaf.unc.edu.ar/) at Universidad Nacional de Córdoba.
 
