@@ -10,12 +10,19 @@ Professional career.-
 My name is Nicolas... this is a brief statment of my career...
 
 * I graduated from Biotechnology and Molecular Biology in 2012.
-* I have been working in Molecular Biology and Immunology ever since.
-* I have a PhD in Molecular Biology.
-* I was working in the United States on two occasions:\
-     :point_right: 2016 Geisel school of Medicine at dartmouth\
-     :point_right: 2020 Louisiana State University\
+* I've been working in Molecular Biology and Immunology ever since.
+* I have a PhD in Molecular Biology (2018).
+* I have experience working in the United States:\
+     :point_right: 2016 Geisel School of Medicine at Dartmouth\
+     :point_right: 2020 Louisiana State University
   
-:computer: In 2019 I started studying Python programming to apply Data Science tools to my postdoc project. Immediatly I fell in love with programming, Python and Data Science. Now a days I am taking an anual course of [xxx](https://diplodatos.famaf.unc.edu.ar/) at Universidad Nacional de Córdoba.
+:computer: In 2019 I started studying Python programming to apply Data Science tools to my postdoc project. Immediatly I fell in love with programming, Python and Data Science. Now a days I am taking an anual course of [DATA SCIENCE, MACHINE LEARNING AND ITS APPLICATIONS](https://diplodatos.famaf.unc.edu.ar/) at Universidad Nacional de Córdoba.
 
-Today I am looking to redirect my career towards the Data Science area and I am looking for positions in the industry in Argentina or abroad.
+For the last couple of months I have been trying to redirect my career towards the Data Science industry; so I'm looking for positions in the industry in Argentina or abroad.
+
+Soft Skills
+---
+
+I'm a passionate amateur athlete.
+I used to love playing football (soccer) since I was 4 years old. I was part part of several amateurs teams and compete in football championships every year during my childhood and adolescence.\
+In 2017 I satarted pracicing trail running and fell in love with this sport immediatly. I run plenty of races throw amazing landscape of argentine Patagonia.  
