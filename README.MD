@@ -20,7 +20,7 @@ My name is Nicolas... this is a brief statment of my career...
 
 For the last couple of months I have been trying to redirect my career towards the Data Science industry; so I'm looking for positions in the industry in Argentina or abroad.
 
-If you want to know more about my professional careers, please go to [Linkedin](www.linkedin.com/in/nicolas-ambrosis) (sorry! its under construction for now, it will be endeed in a couple of days) or mi Curriculm Vitae ([english](https://drive.google.com/file/d/16Ge_n_iTVZJ6khd8akT_hYQs67biIWv2/view?usp=sharing) or [spanish](https://drive.google.com/file/d/16Ge_n_iTVZJ6khd8akT_hYQs67biIWv2/view?usp=sharing)
+If you want to know more about my professional careers, please go to [Linkedin](www.linkedin.com/in/nicolas-ambrosis) (sorry! its under construction for now, it will be endeed in a couple of days) or mi Curriculm Vitae ([english](https://drive.google.com/file/d/16Ge_n_iTVZJ6khd8akT_hYQs67biIWv2/view?usp=sharing) or [spanish](https://drive.google.com/file/d/16Ge_n_iTVZJ6khd8akT_hYQs67biIWv2/view?usp=sharing))
 
 Soft Skills.-
 ---
