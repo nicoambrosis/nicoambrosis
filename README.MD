@@ -1,6 +1,6 @@
 <h1 align='center'> Hello! :wave:</h1>
 <h1 align='center'>
-I'm Nicolas.-
+I'm Nico.-  
 </h1>
 
 
