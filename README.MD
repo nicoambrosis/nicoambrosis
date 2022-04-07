@@ -5,6 +5,11 @@ I'm Nico.-
 
 
 
+![IMG_0128 (3)](https://user-images.githubusercontent.com/57463307/162270005-ed079858-979b-4b65-b08a-ac6f856431b6.JPG)
+
+
+
+
 Professional career.- 
 ---
 My name is Nicolas... this is a brief statment of my career...
