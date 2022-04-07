@@ -1,13 +1,14 @@
 <h1 align='center'> Hey! :wave:</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57463307/162272276-b20dcd2f-78f4-47c5-a3e3-b55628efe41c.JPG"
+       width="790" 
+     height="350"/>
+</p>
+
 <h1 align='center'>
 I'm Nico.-  
 </h1>
-
-
-
-![IMG_0128 (3)](https://user-images.githubusercontent.com/57463307/162270005-ed079858-979b-4b65-b08a-ac6f856431b6.JPG)
-
-
 
 
 Professional career.- 
