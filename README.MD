@@ -41,3 +41,22 @@ I have a modest Canon PC1560 7.4v whit a amazing 35X optical zoom. It's not wooo
 I used to love playing football (soccer :soccer:) since I was 4 years old. I was part part of several amateurs teams and compete in football championships every year during my child and teenage years.\
 In 2017 I started practicing trail running :running: and fell in love with this sport immediately. Since then, I have ran plenty of races through the amazing landscapes of argentine Patagonia :snowflake: :deciduous_tree:.  
 Occasionally I also go to play golf :golf: with my father!!
+
+
+<p align="left"> 
+  <a href="https://www.teradata.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nicoambrosis/Managing-Big-Data-with-SQL/blob/main/Teradata/Teradata_logo_2018.png" alt="teradata" width="180" height="70"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="70" height="70"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git" width="70" height="70"/> </a>
+  <a href="https://pages.github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="git-hub" width="70" height="70"/> </a>
+  <a href="https://inkscape.org/es/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" alt="inkscape" width="70" height="70"/> </a>
+    <a href="https://pandas.pydata.org/pandas-docs/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="70" height="70"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="70" height="70"/> </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="70" height="70"/> </a>
+  <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="Rstudio" width="70" height="70"/> </a>
+  <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot" width="70" height="70"/> </a>
+  
+  </p>
+
+
+
