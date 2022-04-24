@@ -71,5 +71,12 @@ Occasionally I also go to play golf :golf: with my father!!
 
 
 
+<p align="left"> 
+  <a href="https://twitter.com/home?lang=es" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter_nambrosis" width="90" height="90"/> </a>
+
+
+
+
+
 
 
