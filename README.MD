@@ -50,6 +50,7 @@ If you want to know more about my professional career, please go to my [Linkedin
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="80" height="80"/> </a>
   <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="Rstudio" width="80" height="80"/> </a>
   <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot" width="80" height="80"/> </a>
+  <a href="https://plotly.com/ggplot2/" target="_blank" rel="noreferrer"> <img src="https://github.com/plotly/plotly.R/blob/master/man/figures/plotly.png" alt="plotly" width="210" height="90"/> </a>
   
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git" width="80" height="80"/> </a>
