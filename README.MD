@@ -29,7 +29,7 @@ I have been working with data since 2012 when started the grad program at Nation
 
 For the last few of months I have been trying to redirect my career towards the Data Science industry; I'm looking for positions in the industry in Argentina or abroad.
 
-If you want to know more about my professional career, please go to my [Linkedin](www.linkedin.com/in/nicolas-ambrosis) (sorry! its under construction for now, it will be endeed in a couple of days) or mi Curriculm Vitae ([english](https://drive.google.com/file/d/16Ge_n_iTVZJ6khd8akT_hYQs67biIWv2/view?usp=sharing) or [spanish](https://drive.google.com/file/d/16Ge_n_iTVZJ6khd8akT_hYQs67biIWv2/view?usp=sharing)).
+If you want to know more about my professional career, please go to my [Linkedin](www.linkedin.com/in/nicolas-ambrosis) (sorry! its under construction for now, it will be endeed in a couple of days) or mi Curriculm Vitae ([english](https://drive.google.com/file/d/16Ge_n_iTVZJ6khd8akT_hYQs67biIWv2/view?usp=sharing) or [spanish](https://drive.google.com/file/d/1BLEYRL6YTsibi1-yn1zTJ2SfHZrw_REk/view?usp=sharing)).
 
 :mailbox: nambrosis1987@gmail.com | nambrosis@hotmail.com 
 
