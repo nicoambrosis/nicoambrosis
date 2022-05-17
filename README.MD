@@ -13,23 +13,27 @@ I'm Nico.-
 
 Professional career.- 
 ---
-My name is Nicolas... this is a brief statment of my career...
-
+I'm a science guy. However I have not been working in Data Science from the beginning. I took my first steps in science in the field of Biological Sciences...
 * I graduated :mortar_board: from Biotechnology and Molecular Biology in 2012.
-* I've been working in Molecular Biology and Immunology ever since.
 * I have a PhD in Molecular Biology (2018).
-* I have experience working in the United States:\
-     :point_right: 2016 Geisel School of Medicine at Dartmouth\
-     :point_right: 2021 Louisiana State University
-     
-I have been working with data since 2012 when started the grad program at National University of La Plata, Argentine. During this time I learned how to perform experiments based on a certain hypothesis, how to graph the results and analyze the data to confirm or reject the original hypothesis. Here you can find some peer-reviewed articles I have published over the last few years....[here](https://github.com/nicoambrosis/Peer-review-publications).          
+* I have experience doing science in the United States:\
+        :point_right: 2016 Geisel School of Medicine at Dartmouth\
+        :point_right: 2021 Louisiana State University Health.\
+\
+Here you can find some peer-reviewed articles that I have published in the last few years....[here](https://github.com/nicoambrosis/Peer-review-publications).\
+And here you can find a complete list, with more details... [here](https://pubmed.ncbi.nlm.nih.gov/?term=Nicolas+Ambrosis%5BAuthor%5D&sort=date).
+   
+           
+:computer: . In 2019 I started studying Python programming to apply Data Science tools to my postdoc project. :heart: Immediatly I fell in love with programming, Python and Data Science in general :heart:. So I started taking courses and studying a lot by my own. Nowadays I am taking an anual course of :bar_chart: :chart_with_upwards_trend: [DATA SCIENCE, MACHINE LEARNING AND ITS APPLICATIONS](https://diplodatos.famaf.unc.edu.ar/) at Universidad Nacional de Córdoba.
 
 
-:computer: . In 2019 I started studying Python programming to apply Data Science tools to my postdoc project. Immediatly I fell in love with programming, Python and Data Science. Nowadays I am taking an anual course of :bar_chart: :chart_with_upwards_trend: [DATA SCIENCE, MACHINE LEARNING AND ITS APPLICATIONS](https://diplodatos.famaf.unc.edu.ar/) at Universidad Nacional de Córdoba.
+Future perspectives.-
+---
+During the last 13 years I've built a strong background in science. This gave my the ability to think about problems and solutions in a scientific way. I strongly believe that evidence-based decision making is our best approach to face challenges in life and business. For the last few of months I've been trying to redirect my career towards the Data Science industry. I would lik to broaden my horizons so I'm looking for challenges even outside the biological sciences field.
 
-For the last few of months I have been trying to redirect my career towards the Data Science industry; I'm looking for positions in the industry in Argentina or abroad.
-
-If you want to know more about my professional career, please go to my [Linkedin](www.linkedin.com/in/nicolas-ambrosis) (sorry! its under construction for now, it will be endeed in a couple of days) or mi Curriculm Vitae ([english](https://drive.google.com/file/d/1BeSHJlRrY1shoeFkSrJ38moXPMcFCvO_/view?usp=sharing) or [spanish](https://drive.google.com/file/d/1BeQNBQ6DKsUgYA3P-gWxHJcCJ0gHhV6Q/view?usp=sharing)).
+Resume.-
+---
+If you want to know more about my professional career, please go to my [Linkedin](www.linkedin.com/in/nicolas-ambrosis) or mi resume ([english](https://drive.google.com/file/d/1BeSHJlRrY1shoeFkSrJ38moXPMcFCvO_/view?usp=sharing) or [spanish](https://drive.google.com/file/d/1BeQNBQ6DKsUgYA3P-gWxHJcCJ0gHhV6Q/view?usp=sharing)).
 
 :mailbox: nambrosis1987@gmail.com | nambrosis@hotmail.com 
 
@@ -77,16 +81,3 @@ I have a modest Canon PC1560 7.4v whit a amazing 35X optical zoom. It's not wooo
 I used to love playing football (soccer :soccer:) since I was 4 years old. I was part part of several amateurs teams and compete in football championships every year during my child and teenage years.\
 In 2017 I started practicing trail running :running: and fell in love with this sport immediately. Since then, I have ran plenty of races through the amazing landscapes of argentine Patagonia :snowflake: :deciduous_tree:.  
 Occasionally I also go to play golf :golf: with my father!!
-
-
-
-
-<p align="left"> 
-  <a href="https://twitter.com/home?lang=es" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter_nambrosis" width="90" height="90"/> </a>
-
-
-
-
-
-
-
