@@ -29,7 +29,7 @@ And here you can find a complete list, with more details... [here](https://pubme
 
 Future perspectives.-
 ---
-During the last 13 years I've built a strong background in science. This gave my the ability to think about problems and solutions in a scientific way. I strongly believe that evidence-based decision making is our best approach to face challenges in life and business. For the last few months I've been trying to redirect my career towards the Data Science industry. I would like to broaden my horizons so I'm looking for challenges even outside the field of biological sciences.
+During the last 13 years I've built a strong background in science. This gave my the ability to think about problems and solutions in a scientific way. **I strongly believe that evidence-based decision making is our best approach to face challenges in life and business.** For the last few months I've been trying to redirect my career towards the Data Science industry. I would like to broaden my horizons so I'm looking for challenges even outside the field of biological sciences.
 
 Resume.-
 ---
