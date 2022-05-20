@@ -13,7 +13,7 @@ I'm Nico.-
 
 Professional career.- 
 ---
-I'm a science guy. However I have not been working in Data Science from the beginning. I took my first steps in science in the field of Biological Sciences...
+I'm a science guy. However I have not been working in Data Science from the beginning. I took my first steps in science in the field of Life Sciences...
 * I graduated :mortar_board: from Biotechnology and Molecular Biology in 2012.
 * I have a PhD in Exact Sciences (2018).
 * I have experience doing science in the United States:\
