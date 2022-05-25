@@ -82,5 +82,5 @@ In 2017 I started practicing trail running :running: and fell in love with this 
 Occasionally I also go to play golf :golf: with my father.
 
 
-[xxxxx](www.linkedin.com/in/nicolas-ambrosis)
+[xxxxx](https://www.linkedin.com/in/nicolas-ambrosis/)
 https://www.linkedin.com/in/nicolas-ambrosis/
