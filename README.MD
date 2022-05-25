@@ -1,4 +1,6 @@
-<h1 align='center'> Hey! :wave:</h1>
+<h1 align='center'>
+<img src="https://user-images.githubusercontent.com/57463307/170295762-3319cf01-9efd-44c6-b6ac-c2d6d0194218.png" width="40"/> I'm Nico.- <img src="https://user-images.githubusercontent.com/57463307/170295762-3319cf01-9efd-44c6-b6ac-c2d6d0194218.png" width="40"/>  
+</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57463307/162272276-b20dcd2f-78f4-47c5-a3e3-b55628efe41c.JPG"
@@ -6,9 +8,6 @@
      height="350"/>
 </p>
 
-<h1 align='center'>
-I'm Nico.-  
-</h1>
 
 
 Professional career.- 
