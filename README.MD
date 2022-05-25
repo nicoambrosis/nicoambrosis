@@ -32,7 +32,7 @@ During the last 13 years I've built a strong background in science. This gave my
 
 Resume.-
 ---
-If you want to know more about my professional career, please go to my [Linkedin] or mi resume ([english](https://drive.google.com/file/d/1D4qkPFWs85mqJvBy3Jr4g3m-H9TpWW7q/view?usp=sharing) or [spanish](https://drive.google.com/file/d/1D5dSdSb0ES4AHtylZwrZ2PvZfHaD9cq-/view?usp=sharing)).
+If you want to know more about my professional career, please go to my [Linkedin](https://www.linkedin.com/in/nicolas-ambrosis/) or mi resume ([english](https://drive.google.com/file/d/1D4qkPFWs85mqJvBy3Jr4g3m-H9TpWW7q/view?usp=sharing) or [spanish](https://drive.google.com/file/d/1D5dSdSb0ES4AHtylZwrZ2PvZfHaD9cq-/view?usp=sharing)).
 
 :mailbox: nambrosis1987@gmail.com | nambrosis@hotmail.com 
 
@@ -80,7 +80,3 @@ I have a modest Canon PC1560 7.4v whit a amazing 35X optical zoom. It's not wooo
 I used to love playing football (soccer :soccer:) since I was 4 years old. I was part part of several amateurs teams and compete in football championships every year during my child and teenage years.\
 In 2017 I started practicing trail running :running: and fell in love with this sport immediately. Since then, I have ran plenty of races through the amazing landscapes of argentine Patagonia :snowflake: :deciduous_tree:.  
 Occasionally I also go to play golf :golf: with my father.
-
-
-[xxxxx](https://www.linkedin.com/in/nicolas-ambrosis/)
-https://www.linkedin.com/in/nicolas-ambrosis/
