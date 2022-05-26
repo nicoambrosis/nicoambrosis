@@ -76,7 +76,7 @@ Soft Skills.-
 ---
 I'm a passionate reader:books: , photographer :camera: and amateur athlete.
 
-I have a modest Canon PC1560 7.4v whit a amazing 35X optical zoom. It's not woooow but It allows me to take nice landscapes and B&W [pictures](https://www.instagram.com/nico.ambrosis/). 
+I have a modest Canon PC1560 7.4v with an amazing 35X optical zoom. It's not woooow but It allows me to take nice landscapes and B&W [pictures](https://www.instagram.com/nico.ambrosis/). 
 I used to love playing football (soccer :soccer:) since I was 4 years old. I was part part of several amateurs teams and compete in football championships every year during my child and teenage years.\
 In 2017 I started practicing trail running :running: and fell in love with this sport immediately. Since then, I have ran plenty of races through the amazing landscapes of argentine Patagonia :snowflake: :deciduous_tree:.  
 Occasionally I also go to play golf :golf: with my father.
