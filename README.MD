@@ -22,7 +22,7 @@ Here you can find some peer-reviewed articles that I have published in the last 
 And here you can find a complete list, with more details... [here](https://pubmed.ncbi.nlm.nih.gov/?term=Nicolas+Ambrosis%5BAuthor%5D&sort=date).
    
            
-:computer: . In 2019 I started studying Python programming to apply Data Science tools to my postdoc project. :heart: Immediatly I fell in love with programming, Python and Data Science in general :heart:. So I started taking courses and studying a lot by my own. Nowadays I am taking an anual course of :bar_chart: :chart_with_upwards_trend: [DATA SCIENCE, MACHINE LEARNING AND ITS APPLICATIONS](https://diplodatos.famaf.unc.edu.ar/) at Universidad Nacional de Córdoba.
+:computer: . In 2019 I started studying Python programming to apply Data Science tools to my postdoc project. :heart: I immediately fell in love with programming, Python and Data Science in general :heart:. So I started taking courses and studying a lot by my own. Nowadays I am taking an anual course of :bar_chart: :chart_with_upwards_trend: [DATA SCIENCE, MACHINE LEARNING AND ITS APPLICATIONS](https://diplodatos.famaf.unc.edu.ar/) at Universidad Nacional de Córdoba.
 
 
 Future perspectives.-
