@@ -58,6 +58,8 @@ If you want to know more about my professional career, please go to my [Linkedin
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="70" height="70"/> </a>
   <a href="https://seaborn.pydata.org/#" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="150" height="50"/> </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="150" height="50"/> </a>  
+    <a href="https://scikit-learn.org/stable/#" target="_blank" rel="noreferrer"> <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.png" alt="Scikit-learn" width="125" height="75"/> </a>
+    
   </p> 
   </details>
 
