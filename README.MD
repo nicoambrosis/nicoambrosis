@@ -11,7 +11,7 @@
 
 Professional career.- 
 ---
-I'm a science person. However I have not been working in Data Science from the beginning. I took my first steps in science in the field of Life Sciences...
+I'm a science person. However, I have not been working in Data Science from the beginning. I took my first steps in science in the field of Life Sciences...
 * I graduated :mortar_board: from Biotechnology and Molecular Biology in 2012.
 * I have a PhD in Exact Sciences (2018).
 * I have experience doing science in the United States:\
@@ -22,12 +22,12 @@ Here you can find some peer-reviewed articles that I have published in the last 
 And here you can find a complete list, with more details... [here](https://pubmed.ncbi.nlm.nih.gov/?term=Nicolas+Ambrosis%5BAuthor%5D&sort=date).
    
            
-:computer: . In 2019 I started studying Python programming to apply Data Science tools to my postdoc project. :heart: Immediately I fell in love with programming, Python and Data Science in general :heart:. So I started taking courses and studying a lot by my own. Nowadays I am taking an anual course of :bar_chart: :chart_with_upwards_trend: [DATA SCIENCE, MACHINE LEARNING AND ITS APPLICATIONS](https://diplodatos.famaf.unc.edu.ar/) at Universidad Nacional de Córdoba.
+:computer: . In 2019 I started studying Python programming to apply Data Science tools to my postdoc project. :heart: Immediately I fell in love with programming, Python, and Data Science in general :heart:. So I started taking courses and studying a lot by my own. Nowadays I am taking an annual course of :bar_chart: :chart_with_upwards_trend: [DATA SCIENCE, MACHINE LEARNING, AND ITS APPLICATIONS](https://diplodatos.famaf.unc.edu.ar/) at Universidad Nacional de Córdoba.
 
 
 Future perspectives.-
 ---
-During the last 13 years I've built a strong background in science. This gave my the ability to think about problems and solutions in a scientific way. **I strongly believe that evidence-based decision making is our best approach to face challenges in life and business.** For the last few months I've been trying to redirect my career towards the Data Science industry. I would like to broaden my horizons so I'm looking for challenges even outside the field of biological sciences.
+During the last 13 years, I've built a strong background in science. This gave me the ability to think about problems and solutions in a scientific way. **I strongly believe that evidence-based decision-making is our best approach to facing challenges in life and business.** For the last few months I've been trying to redirect my career toward the Data Science industry. I would like to broaden my horizons so I'm looking for challenges even outside the field of biological sciences.
 
 Resume.-
 ---
@@ -89,8 +89,8 @@ Soft Skills.-
 I'm a passionate reader:books: , photographer :camera: and amateur athlete.
 
 I have a modest Canon PC1560 7.4v with an amazing 35X optical zoom. It's not woooow but It allows me to take nice landscapes and B&W [pictures](https://www.instagram.com/nico.ambrosis/). 
-I used to love playing football (soccer :soccer:) since I was 4 years old. I was part part of several amateurs teams and competed in football championships every year during my child and teenage years.\
-In 2017 I started practicing trail running :running: and fell in love with this sport immediately. Since then, I have ran plenty of races through the amazing landscapes of argentine Patagonia :snowflake: :deciduous_tree:.  
+I used to love playing football (soccer :soccer:) since I was 4 years old. I was part of several amateur teams and competed in football championships every year during my childhood and teenage years.\
+In 2017 I started practicing trail running :running: and fell in love with this sport immediately. Since then, I have run plenty of races through the amazing landscapes of Argentinian Patagonia :snowflake: :deciduous_tree:.  
 Occasionally I also go to play golf :golf: with my father.
 
 
