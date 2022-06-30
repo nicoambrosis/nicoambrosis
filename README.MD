@@ -35,7 +35,44 @@ If you want to know more about my professional career, please go to my [Linkedin
 
 :mailbox: nambrosis1987@gmail.com | nambrosis@hotmail.com 
 
-## Languages and Tools.-
+
+Links to repos.-
+---
+Here you can find some projects I have been working on during the last couple of months 
+<p float="left">
+  <a href="https://github.com/nicoambrosis/Managing-Big-Data-with-SQL" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/57463307/176735850-a1e6ad1c-fb19-4c5e-a0d1-fd2731ef2d7e.jpg" width=33% alt="Managing-Big-Data-with-SQL"/>
+    
+  <a href="https://github.com/nicoambrosis/DiploDatos" target="_blank" rel="noreferrer">  
+  <img src="https://user-images.githubusercontent.com/57463307/176737058-ee9d50a1-7581-4557-ad21-b18a2fe4a12a.jpg" width=33% alt="Diplodatos"/> 
+  
+  <a href="https://github.com/nicoambrosis/Introduccion-al-Aprendizaje-Automatico" target="_blank" rel="noreferrer">  
+  <img src="https://user-images.githubusercontent.com/57463307/176737590-d513a9cd-8144-4c75-baa4-98c8bda7a956.jpg" width=33% alt="Intro Apend Autom"/>
+  
+  <a href="https://github.com/nicoambrosis/Housing-Prices-Competition-for-Kaggle-Learn-Users" target="_blank" rel="noreferrer">  
+  <img src="https://user-images.githubusercontent.com/57463307/176738091-4e91f89d-41c0-4f70-89f0-48d5ffd8a484.jpg" width=33% alt="Kaggle"/>
+  
+  <a href="https://github.com/nicoambrosis/Effective-Pandas" rel="noreferrer">  
+  <img src="https://user-images.githubusercontent.com/57463307/176725161-099b4c70-12e8-4634-9066-7ada56a6b3fc.jpg" width=33% alt="Pandas"/> 
+  
+  <a href="https://github.com/nicoambrosis/Data-Visualization-in-R-with-ggplot2" target="_blank" rel="noreferrer">  
+  <img src="https://user-images.githubusercontent.com/57463307/176739443-5fa7fa3e-bd7e-4238-b634-8864083ea63a.jpg" width=33% alt="Data Visualization in R"/>
+    
+  <a href="https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R" target="_blank" rel="noreferrer">  
+  <img src="https://user-images.githubusercontent.com/57463307/176742233-2ff1c7ff-4ea0-460f-869f-29c0e1b7527f.jpg" width=33% alt="Advanced Data Visualization in R"/>
+    
+  <a href="https://github.com/nicoambrosis/Exploratory-Analysis-Lego-Dataset" target="_blank" rel="noreferrer">  
+  <img src="https://user-images.githubusercontent.com/57463307/176744677-43f4e8e9-907f-4933-9260-8ba61aa27d18.jpg" width=33% alt="Lego"/>
+    
+  <a href="https://github.com/nicoambrosis/Geolocalization-of-Uber-pickups" target="_blank" rel="noreferrer">  
+  <img src="https://user-images.githubusercontent.com/57463307/176747742-06730630-d64f-4b9f-880b-37f6168a3428.jpg" width=33% alt="Uber"/>
+</p>
+
+
+
+
+Languages and Tools.-
+---
 
 <details>
 <summary> ➜ 𝗦𝗤𝗟</summary>
