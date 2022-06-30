@@ -38,7 +38,7 @@ If you want to know more about my professional career, please go to my [Linkedin
 
 Links to repos.-
 ---
-Here you can find some projects I have been working on during the last couple of months 
+Here you can find some projects I have been working on during the last couple of months. 
 <p float="left">
   <a href="https://github.com/nicoambrosis/Managing-Big-Data-with-SQL" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/57463307/176735850-a1e6ad1c-fb19-4c5e-a0d1-fd2731ef2d7e.jpg" width=33% alt="Managing-Big-Data-with-SQL"/>
