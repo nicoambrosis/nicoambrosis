@@ -73,7 +73,7 @@ Here you can find some projects I have been working on during the last couple of
     </a>
     
   <a href="https://github.com/nicoambrosis/Geolocalization-of-Uber-pickups" target="_blank" rel="noreferrer">  
-  <img src="https://user-images.githubusercontent.com/57463307/176747742-06730630-d64f-4b9f-880b-37f6168a3428.jpg" width=33% alt="Uber"/>
+  <img src="https://user-images.githubusercontent.com/57463307/177764419-b41af908-aea8-4b71-8147-03ecfffad142.jpg" width=33% alt="Uber"/>
     </a>
   </p>
 
