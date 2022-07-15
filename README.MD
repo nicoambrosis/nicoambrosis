@@ -15,7 +15,7 @@ It can be said that I'm a science guy. However, I have not been working in Data 
 * I graduated :mortar_board: from Biotechnology and Molecular Biology in 2012.
 * I have a PhD in Exact Sciences (2018).
 * I have experience doing science in the United States:\
-        :point_right: 2016 Geisel School of Medicine at Dartmouth\
+        :point_right: 2016 Dartmouth, Geisel School of Medicine\
         :point_right: 2021 Louisiana State University Health.\
 \
 Here you can find some peer-reviewed articles that I have published in the last few years....[here](https://github.com/nicoambrosis/Peer-review-publications).\
