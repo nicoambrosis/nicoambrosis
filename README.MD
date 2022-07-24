@@ -52,6 +52,10 @@ Here you can find some projects I have been working on during the last couple of
   <img src="https://user-images.githubusercontent.com/57463307/176737590-d513a9cd-8144-4c75-baa4-98c8bda7a956.jpg" width=33% alt="Intro Apend Autom"/>
     </a>
   
+  <a href="https://github.com/nicoambrosis/Aprendizaje-Supervisado" target="_blank" rel="noreferrer">  
+  <img src="https://user-images.githubusercontent.com/57463307/180654831-e4ac02d7-84eb-4206-8c7b-59811ab1e576.jpg" width=33% alt="Apend Superv"/>
+    </a>
+  
   <a href="https://github.com/nicoambrosis/Housing-Prices-Competition-for-Kaggle-Learn-Users" target="_blank" rel="noreferrer">  
   <img src="https://user-images.githubusercontent.com/57463307/176738091-4e91f89d-41c0-4f70-89f0-48d5ffd8a484.jpg" width=33% alt="Kaggle"/>
     </a>
