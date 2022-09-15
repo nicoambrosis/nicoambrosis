@@ -53,11 +53,11 @@ Here you can find some projects I have been working on during the last couple of
     </a>
   
   <a href="https://github.com/nicoambrosis/Aprendizaje-Supervisado" target="_blank" rel="noreferrer">  
-  <img src="https://user-images.githubusercontent.com/57463307/180654831-e4ac02d7-84eb-4206-8c7b-59811ab1e576.jpg" width=33% alt="Apend Superv"/>
+  <img src="https://user-images.githubusercontent.com/57463307/180654831-e4ac02d7-84eb-4206-8c7b-59811ab1e576.jpg" width=33% alt="Aprend Superv"/>
     </a>
     
   <a href="https://github.com/nicoambrosis/Aprendizaje-Supervisado" target="_blank" rel="noreferrer">  
-  <img src="https://user-images.githubusercontent.com/57463307/180654831-e4ac02d7-84eb-4206-8c7b-59811ab1e576.jpg" width=33% alt="Apend Superv"/>
+  <img src="https://user-images.githubusercontent.com/57463307/190524930-625dbc8d-c2be-47af-95ac-db78ed0b2418.jpg" width=33% alt="Aprend NO Superv"/>
     </a>
     
   <a href="https://github.com/nicoambrosis/Housing-Prices-Competition-for-Kaggle-Learn-Users" target="_blank" rel="noreferrer">  
