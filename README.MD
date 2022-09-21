@@ -60,6 +60,10 @@ Here you can find some projects I have been working on during the last couple of
   <img src="https://user-images.githubusercontent.com/57463307/190524930-625dbc8d-c2be-47af-95ac-db78ed0b2418.jpg" width=33% alt="Aprend NO Superv"/>
     </a>
     
+  <a href="https://github.com/nicoambrosis/Deep-Learning" target="_blank" rel="noreferrer">  
+  <img src="https://user-images.githubusercontent.com/57463307/191492887-00335708-04f4-429b-8a9f-4fa46c65cbc8.jpg" width=33% alt="Deep Learning"/>
+    </a>
+    
   <a href="https://github.com/nicoambrosis/Housing-Prices-Competition-for-Kaggle-Learn-Users" target="_blank" rel="noreferrer">  
   <img src="https://user-images.githubusercontent.com/57463307/176738091-4e91f89d-41c0-4f70-89f0-48d5ffd8a484.jpg" width=33% alt="Kaggle"/>
     </a>
