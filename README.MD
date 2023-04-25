@@ -33,7 +33,7 @@ Resume.-
 ---
 If you want to know more about my professional career, please go to my [Linkedin](https://www.linkedin.com/in/nicolas-ambrosis/) or mi resume ([english](https://drive.google.com/file/d/1D4qkPFWs85mqJvBy3Jr4g3m-H9TpWW7q/view?usp=sharing) or [spanish](https://drive.google.com/file/d/1D5dSdSb0ES4AHtylZwrZ2PvZfHaD9cq-/view?usp=sharing)).
 
-:mailbox: nambrosis1987@gmail.com | nicolas.ambrosis@memorable.io 
+:mailbox: nambrosis1987@gmail.com | nambrosis@biol.unlp.edu.ar 
 
 
 Links to repos.-
